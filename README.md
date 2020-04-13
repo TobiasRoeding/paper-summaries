@@ -2,13 +2,14 @@
 Summaries of machine learning papers, mostly on NLU / NLP / Deep learning
 
 ## To read
-- Specializing Word Embeddings (for Parsing) by Information Bottleneck (2019) [[Paper](https://arxiv.org/abs/1910.00163)]
-    - Xiang Lisa Li, Jason Eisner
 
 - Generating Long Sequences with Sparse Transformers (2019) [[Paper](https://arxiv.org/abs/1904.10509)]
     - Rewon Child, Scott Gray, Alec Radford, Ilya Sutskever
 
 ## 2020  
+
+- Specializing Word Embeddings (for Parsing) by Information Bottleneck (2019) [[Summary](./summaries/specializing-word-embeddings-vib.pdf)] [[Paper](https://arxiv.org/abs/1910.00163)]
+    - Xiang Lisa Li, Jason Eisner
 
 - Deep Neural Network Compression with Single and Multiple Level Quantization (2018) [[Summary](./summaries/dnn-compression-slq-mlq.pdf)] [[Paper](https://arxiv.org/abs/1803.03289)] 
     - Yuhui Xu, Yongzhuang Wang, Aojun Zhou, Weiyao Lin, Hongkai Xiong
