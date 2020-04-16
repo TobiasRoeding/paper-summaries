@@ -8,6 +8,9 @@ Summaries of machine learning papers, mostly on NLU / NLP / Deep learning
 
 ## 2020  
 
+- Multi-Source Cross-Lingual Model Transfer: Learning What to Share (2019) [[Summary](./summaries/learning-what-to-share.pdf)] [[Paper](https://arxiv.org/abs/1810.03552)]
+    - Xilun Chen, Ahmed Hassan Awadallah, Hany Hassan, Wei Wang, Claire Cardie
+
 - Specializing Word Embeddings (for Parsing) by Information Bottleneck (2019) [[Summary](./summaries/specializing-word-embeddings-vib.pdf)] [[Paper](https://arxiv.org/abs/1910.00163)]
     - Xiang Lisa Li, Jason Eisner
 
