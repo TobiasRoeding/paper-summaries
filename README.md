@@ -8,6 +8,9 @@ Summaries of machine learning papers, mostly on NLU / NLP / Deep learning
 
 ## 2020  
 
+- Neural Machine Translation of Rare Words with Subword Units (2015) [[Summary](./summaries/nmt-rare-words-subwords.pdf)] [[Paper](https://arxiv.org/abs/1508.07909)]
+    - Rico Sennrich, Barry Haddow, Alexandra Birch
+
 - Multi-Source Cross-Lingual Model Transfer: Learning What to Share (2019) [[Summary](./summaries/learning-what-to-share.pdf)] [[Paper](https://arxiv.org/abs/1810.03552)]
     - Xilun Chen, Ahmed Hassan Awadallah, Hany Hassan, Wei Wang, Claire Cardie
 
