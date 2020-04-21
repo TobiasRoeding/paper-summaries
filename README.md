@@ -8,6 +8,9 @@ Summaries of machine learning papers, mostly on NLU / NLP / Deep learning
 
 ## 2020  
 
+- Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates (2018) [[Summary](./summaries/subword-regularization.pdf)] [[Paper](https://arxiv.org/pdf/1804.10959.pdf)]
+    - Taku Kudo
+
 - Neural Machine Translation of Rare Words with Subword Units (2015) [[Summary](./summaries/nmt-rare-words-subwords.pdf)] [[Paper](https://arxiv.org/abs/1508.07909)]
     - Rico Sennrich, Barry Haddow, Alexandra Birch
 
