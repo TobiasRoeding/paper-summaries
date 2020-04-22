@@ -8,6 +8,9 @@ Summaries of machine learning papers, mostly on NLU / NLP / Deep learning
 
 ## 2020  
 
+- Curriculum learning (2009) [[Summary](./summaries/curriculum-learning.pdf)] [[Paper](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf)] 
+    - Yoshua Bengio, Jerome Louradour, Ronan Collobert, Jason Weston
+
 - Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates (2018) [[Summary](./summaries/subword-regularization.pdf)] [[Paper](https://arxiv.org/pdf/1804.10959.pdf)]
     - Taku Kudo
 
