@@ -8,6 +8,9 @@ Summaries of machine learning papers, mostly on NLU / NLP / Deep learning
 
 ## 2020  
 
+- Cross-lingual transfer learning for spoken language understanding (2019) [[Summary](./summaries/x-lingual-tl-ds.pdf)] [[Paper](https://arxiv.org/abs/1904.01825)]
+    - Quynh Ngoc Thi Do, Judith Gaspers
+
 - Curriculum learning (2009) [[Summary](./summaries/curriculum-learning.pdf)] [[Paper](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf)] 
     - Yoshua Bengio, Jerome Louradour, Ronan Collobert, Jason Weston
 
