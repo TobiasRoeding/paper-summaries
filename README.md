@@ -8,6 +8,9 @@ Summaries of machine learning papers, mostly on NLU / NLP / Deep learning
 
 ## 2020  
 
+- End-to-End Slot Alignment and Recognition for Cross-Lingual NLU (2020) [[Summary](./summaries/e2e-slot-alignment.pdf)][[Paper](https://arxiv.org/abs/2004.14353)]
+    - Weijia Xu, Batool Haider, Saab Mansour
+
 - Cross-lingual transfer learning for spoken language understanding (2019) [[Summary](./summaries/x-lingual-tl-ds.pdf)] [[Paper](https://arxiv.org/abs/1904.01825)]
     - Quynh Ngoc Thi Do, Judith Gaspers
 
