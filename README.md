@@ -8,6 +8,9 @@ Summaries of machine learning papers, mostly on NLU / NLP / Deep learning
 
 ## 2020  
 
+- Language Models are Few-Shot Learners (2020) [[Summary](./summaries/gpt3.pdf)] [[Paper](https://arxiv.org/abs/2005.14165)]
+    - Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan, Rewon Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, Dario Amodei
+
 - End-to-End Slot Alignment and Recognition for Cross-Lingual NLU (2020) [[Summary](./summaries/e2e-slot-alignment.pdf)][[Paper](https://arxiv.org/abs/2004.14353)]
     - Weijia Xu, Batool Haider, Saab Mansour
 
